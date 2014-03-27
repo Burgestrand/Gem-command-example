@@ -1,5 +1,7 @@
 require "custom_command/version"
 
 module CustomCommand
-  # Your code goes here...
+  def self.code
+    "This is some code in custom command!"
+  end
 end

@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+# You can assume that your gem can load somehow.
+require "custom_command"
+
+puts CustomCommand.code
